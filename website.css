@@ -12,7 +12,8 @@
 }                      
 
 .slide img {
-    display: block;  
+    display: block;
+    max-width: 900px;
 }   
 
 
