@@ -71,3 +71,17 @@
         background-color: #000;
     
 }
+
+.sltxta {
+    padding: 6px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-transfrom: uppercase;
+    background-color: #365267;
+    color: #FFF;
+}
+
+.sltxta:hover {
+    background-color: #FFF;
+    color: #365267
+}
